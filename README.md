@@ -19,7 +19,7 @@ $$
 \textbf u=
 \left[
 \begin{matrix}
-+1 & +2 & +3 \\
++1 & +2 & +1 \\
 0 & 0 & 0 \\
 -1 & -2 & -1
 \end{matrix}
@@ -41,4 +41,4 @@ $$
 Scharr等算子可以替代Sobel算子来进行能量谱计算。在论文的"**3.2 Image Energy Functions**"节中也给出了一些其它的能量函数。而普林斯顿大学的作业[Programming Assignment 7: Seam Carving](http://www.cs.princeton.edu/courses/archive/fall14/cos226/assignments/seamCarving.html)中使用的是更简单的"*dual-gradient energy function*"。
 
 ###演示
-待更新
+
